@@ -10,3 +10,4 @@ require("~/git/Saute.jl/saute.jl")
 @taste sigmoid(1) == 0.7310585786300049
 @taste sigmoid(zeros(3)) == [0.5; 0.5; 0.5]
 @taste sigmoid(12) == 12
+println("4 ingredients, 1 bad taste")

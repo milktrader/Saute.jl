@@ -16,7 +16,7 @@ John: Hey Jacques, whatcha doing?
 Jacques: Oh, just cooking up a little something with Julia.  
 John: Wow, sounds great!  
 Jacques: Yeah, we're doing some taste tests for a few recipes we're working on.  
-John: Awesome, do you have all the ingredients you'll need.  
+John: Awesome, do you have all the ingredients you'll need?    
 Jacques: Yeah, we think so. Not sure yet.  
 John: Okay, well let me know when you're done. I'm hungry already!  
 Jacques: John, this is just a metaphor.  

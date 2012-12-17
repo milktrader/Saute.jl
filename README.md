@@ -1,4 +1,5 @@
 ## A whimsical testing framework for Julia
+#### breaking down code into tiny bite-sized morsels
 
 ![colorized output](https://raw.github.com/milktrader/Saute.jl/master/img/output.png)
 
@@ -11,7 +12,7 @@ Julia:   a dynamic programming language
 ### Scene 1:
 ____________________
 
-### location: a fully-equipped kitchen with modern electrical appliances (including a toaster)
+### a fully-equipped kitchen with modern electrical appliances (including a toaster)
 
 John: Hey Jacques, whatcha doing?  
 Jacques: Oh, just cooking up a little something with Julia.  

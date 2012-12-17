@@ -5,13 +5,11 @@
 
 ### cast of characters
 
-John:    a curious end-user  
-Jacques: a proficient programmer, who used to program in R, Python, Haskell, Perl, Ruby and Prolog  
-Julia:   a dynamic programming language  
++ John:    a curious end-user  
++ Jacques: a proficient programmer, who used to program in R, Python, Haskell, Perl, Ruby and Prolog  
++ Julia:   a dynamic programming language  
 
-### Scene 1:
-
-### a fully-equipped kitchen with modern electrical appliances (including a toaster)
+#### Scene 1: a fully-equipped kitchen with modern electrical appliances (including a toaster)
 ____________________
 
 John: Hey Jacques, whatcha doing?  

@@ -10,9 +10,9 @@ Jacques: a proficient programmer, who used to program in R, Python, Haskell, Per
 Julia:   a dynamic programming language  
 
 ### Scene 1:
-____________________
 
 ### a fully-equipped kitchen with modern electrical appliances (including a toaster)
+____________________
 
 John: Hey Jacques, whatcha doing?  
 Jacques: Oh, just cooking up a little something with Julia.  
